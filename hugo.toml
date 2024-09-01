@@ -3,12 +3,11 @@ title = 'Kosmo'
 theme = "nightfall"
 
 [params]
-user = "hello"
-hostname = "gohugo.io"
+hostname = "shvrp.eu"
 footerHtml = 'Kosmo'
 
 [params.author]
-name = "Mr Hugo"
+name = "Szymon Kosmowski"
 email = "hugo@example.com"
 
 [[params.social]]
@@ -38,11 +37,21 @@ url = "mailto:email@example.com"
 [menu]
 [[menu.header]]
 name = "posts"
-weight = 0
+weight = 1
 url = "/posts"
 
 [[menu.header]]
 name = "about me"
-weight = 0
+weight = 2
 url = "/about-me"
+
+[[menu.header]]
+name = "tags"
+weight = 3
+url = "/tags/"
+
+[[menu.header]]
+name = "categories"
+weight = 4
+url = "/categories/"
 
