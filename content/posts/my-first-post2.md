@@ -8,5 +8,3 @@ tags:
 ## Introduction
 
 This is **bold** text, and this is *emphasized* text.
-
-Visit the [Hugo](https://gohugo.io) website![.gitmodules](..%2F..%2F.gitmodules)

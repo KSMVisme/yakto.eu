@@ -36,21 +36,21 @@ url = "mailto:email@example.com"
 
 [menu]
 [[menu.header]]
-name = "portfolio"
+name = "nowe"
 weight = 1
 url = "/posts"
 
 [[menu.header]]
-name = "about me"
+name = "o:mnie"
 weight = 2
 url = "/about-me"
 
 [[menu.header]]
-name = "tags"
+name = "moje:prace"
 weight = 3
 url = "/tags/"
 
 [[menu.header]]
-name = "categories"
+name = "kontakt"
 weight = 4
 url = "/categories/"
