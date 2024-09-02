@@ -1,5 +1,5 @@
-languageCode = 'en-us'
-title = 'Kosmo'
+languageCode = 'pl-PL'
+title = 'yaktoMedia'
 theme = "nightfall"
 
 [params]
@@ -14,29 +14,29 @@ email = "hugo@example.com"
 key = 0
 name = "github"
 url = "https://github.com/gohugoio"
-icon = "fa-brands fa-github"  # Add link to your icon font to `layouts/partials/custom-head.html`
-target = "_blank" # Defines your target option in a-href. _blank for a new Tab for example.
-aria = "GitHub Profile" # Define the aria label for accessibility like page reader - this is better for your SEO
+icon = "fa-brands fa-github"        # Add link to your icon font to `layouts/partials/custom-head.html`
+target = "_blank"                   # Defines your target option in a-href. _blank for a new Tab for example.
+aria = "GitHub Profile"             # Define the aria label for accessibility like page reader - this is better for your SEO
 
 [[params.social]]
 key = 1
-name = "twitter"
+name = "instagram"
 url = "https://www.example.com"
 
 [[params.social]]
 key = 2
-name = "mastodon"
+name = "filmpolski"
 url = "https://www.example.com"
-rel = "me"  # You can also add rel to social link
+rel = "me"                      # You can also add rel to social link
 
 [[params.social]]
 key = 3
-name = "email"
+name = "team4set"
 url = "mailto:email@example.com"
 
 [menu]
 [[menu.header]]
-name = "posts"
+name = "portfolio"
 weight = 1
 url = "/posts"
 
@@ -54,4 +54,3 @@ url = "/tags/"
 name = "categories"
 weight = 4
 url = "/categories/"
-
