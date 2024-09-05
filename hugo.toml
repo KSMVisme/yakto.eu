@@ -1,48 +1,60 @@
-languageCode = 'pl-PL'
-title = 'yaktoMedia'
+languageCode = 'en-EN'
+title = 'YakTo'
 theme = "nightfall"
 
 [params]
+user = 'ksmvsky'
 hostname = "yakto.eu"
-footerHtml = 'YakToMedia!?'
+footerHtml = 'IG - FP - FB - TT   ----   YakTo<3'
+readingTime = false
+
 
 [params.author]
 name = "Szymon Kosmowski"
-email = "hugo@example.com"
+url = "/"
 
 [[params.social]]
-key = 1
-name = "instagram"
-url = "https://www.example.com"
+name = "Advertisment"
+url = "/categories/ad"
 
 [[params.social]]
-key = 2
-name = "filmpolski"
-url = "https://www.example.com"
-rel = "me"                      # You can also add rel to social link
+name = "Film"
+url = "/tags/film"
 
 [[params.social]]
-key = 3
-name = "team4set"
-url = "mailto:email@example.com"
+name = "Music"
+url = "/categories/music"
+
+[[params.social]]
+name = "Selfmade"
+url = "/categories/selfmade"
+
+[[params.social]]
+name = "Short"
+url = "/categories/short/"
+
+[[params.social]]
+name = "Videoclip"
+url = "/categories/videoclip"
 
 [menu]
+
 [[menu.header]]
-name = "nowe"
+name = "about"
 weight = 1
+url = "/about"
+
+[[menu.header]]
+name = "new"
+weight = 2
 url = "/posts"
 
 [[menu.header]]
-name = "o:mnie"
-weight = 2
-url = "/about-me"
-
-[[menu.header]]
-name = "moje:prace"
+name = "tags"
 weight = 3
 url = "/tags/"
 
 [[menu.header]]
-name = "kontakt"
+name = "hire"
 weight = 4
 url = "/categories/"
