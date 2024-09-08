@@ -19,9 +19,6 @@ define "main" }}
                     >{{ .Date | time.Format ":date_long" }}</time
                 >
             </dd>
-            {{ end }} {{ if .Site.Params.readingTime | default true }}
-            <dt>{{ i18n "reading_time" }}</dt>
-            <dd>{{ i18n "reading_time_desc" .ReadingTime }}</dd>
             {{ end }}
         </dl>
     </section>

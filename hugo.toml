@@ -5,21 +5,21 @@ theme = "nightfall"
 [params]
 user = 'ksmvsky'
 hostname = "yakto.eu"
-footerHtml = 'IG - FP - FB - TT   ----   YakTo<3'
+footerHtml = 'Instagram - FilmPolski - FaceBook'
 readingTime = false
-
+color = "orange"
 
 [params.author]
 name = "Szymon Kosmowski"
-url = "/"
+url = "/about"
 
 [[params.social]]
 name = "Advertisment"
-url = "/categories/ad"
+url = "/categories/advertisement"
 
 [[params.social]]
 name = "Film"
-url = "/tags/film"
+url = "/categories/film"
 
 [[params.social]]
 name = "Music"
@@ -36,6 +36,7 @@ url = "/categories/short/"
 [[params.social]]
 name = "Videoclip"
 url = "/categories/videoclip"
+
 
 [menu]
 
@@ -57,4 +58,4 @@ url = "/tags/"
 [[menu.header]]
 name = "hire"
 weight = 4
-url = "/categories/"
+url = "/hire"
