@@ -32,3 +32,11 @@ $primary-colors: (
         color: h.$color;
     }
 }
+
+@mixin background-primary-color {
+    @if map.has-key($primary-colors, h.$color) {
+        background-color: map.get($primary-colors, h.$color);
+    } @else {
+        background-color: h.$color;
+    }
+}

@@ -25,6 +25,7 @@
 }
 
 .mainButton:hover {
+    @include v.background-primary-color;
     border: none;
     color: v.$white;
     padding: 15px 30px;
