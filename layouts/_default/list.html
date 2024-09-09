@@ -23,7 +23,7 @@ define "main" }}
                     >
                     {{ $formattedDate := .Date.Format "2006-01-02" }}
                     <time class="postDate" datetime="{{ $formattedDate }}"
-                        >{{ replace $split "_" " " }}</time
+                        >{{ replace $split "_" " " }} {{ $formattedDate }}</time
                     >
                 </div>
                 <div class="postExcerpt">
@@ -34,7 +34,7 @@ define "main" }}
                                         background-image: url(https://img.youtube.com/vi/{{ .Params.ytid }}/0.jpg);
                                     "
                     ></div>
-                    {{ else }} {{ end }}
+                    {{ else }} failed to load content! {{ end }}
                     <section class="listPostMetadata">
                         <dl>
                             {{ with .GetTerms "tags" }} {{ partial

@@ -23,6 +23,9 @@
     flex-shrink: 0;
     border-bottom-left-radius: 25px;
     border-bottom-right-radius: 25px;
+    z-index: 100;
+    top: 0;
+    position: sticky;
 }
 
 .headerLinks {

@@ -11,6 +11,10 @@ tags:
   - "sound-recording"
 ytid: "NijsWKZt_84"
 ---
+
+
+##Credits:
+
 - Reżyseria i Scenariusz: Maciej Habik
 - Operator Kamery: Tytus Diakun
 - Montaż: Szymon Kosmowski

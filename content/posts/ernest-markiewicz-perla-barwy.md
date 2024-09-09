@@ -1,5 +1,5 @@
 ---
-title: "[LIVE_SESSION] Ernest Markiewicz - Perła &amp; Barwy"
+title: "[LIVE_SESSION] Ernest Markiewicz - Perła & Barwy"
 date: "2024-01-25"
 categories:
   - "music"

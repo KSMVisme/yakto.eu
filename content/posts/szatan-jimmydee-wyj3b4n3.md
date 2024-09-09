@@ -1,5 +1,5 @@
 ---
-title: "[MUSIC] SZATAN &amp; Jimmydee - WYJ3B4N3"
+title: "[MUSIC] SZATAN & Jimmydee - WYJ3B4N3"
 date: "2021-06-28"
 categories:
   - "music"
