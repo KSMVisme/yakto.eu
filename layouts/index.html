@@ -19,11 +19,9 @@
                             <h1 class="indexHeader">
                                 {{ .Site.Params.author.name }}
                             </h1>
-                            <input
-                                type="button"
-                                class="mainButton"
-                                value="Watch Showreel"
-                            />
+                            <a href="/about" class="secondaryButton">About</a>
+                            <a href="#" class="mainButton">Watch Showreel</a>
+                            <a href="/hire" class="secondaryButton">Hire</a>
                         </div>
                         {{ if isset .Site.Params "social" }} {{ partial
                         "social.html" . }} {{ end }}

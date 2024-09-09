@@ -15,4 +15,12 @@
         display: inline-block;
         margin: 10px;
     }
+    a:hover {
+        transition: 0.5s;
+        @include v.primary-color;
+        text-shadow: v.$darkGrey 0px 0px 2px;
+        -webkit-font-smoothing: antialiased;
+        display: inline-block;
+        margin: 10px;
+    }
 }

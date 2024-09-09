@@ -15,7 +15,20 @@
     background-color: v.$darkGrey;
     border: none;
     color: white;
-    padding: 15px 30px;
+    padding: 15px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    border-radius: 10px;
+    transition: 250ms;
+}
+
+.secondaryButton {
+    background-color: v.$darkGrey;
+    border: none;
+    color: white;
+    padding: 15px 10px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -29,6 +42,18 @@
     border: none;
     color: v.$white;
     padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    border-radius: 10px;
+}
+
+.secondaryButton:hover {
+    @include v.background-primary-color;
+    border: none;
+    color: v.$white;
+    padding: 15px 20px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -57,7 +82,7 @@
     min-height: 100%;
     filter: blur(50px);
     z-index: -1;
-    opacity: 25%;
+    opacity: 10%;
 }
 
 .main {
