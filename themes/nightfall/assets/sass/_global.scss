@@ -11,7 +11,7 @@ body {
 }
 
 a {
-    @include v.primary-color;
+    color: v.$lightGrey;
 }
 
 pre code {

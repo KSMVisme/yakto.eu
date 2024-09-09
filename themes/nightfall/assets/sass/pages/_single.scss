@@ -8,7 +8,7 @@
 .postMetadata {
     font-family: v.$fontCode;
     display: block;
-    background: v.$backgroundDarker;
+    background: v.$darkGrey;
     padding: 10px;
     margin: 5px;
     border-radius: 20px;
@@ -26,12 +26,12 @@ dl {
 }
 
 dt {
-    color: v.$darkGrey;
+    color: v.$grey;
     grid-column-start: 1;
 }
 
 dd {
-    color: v.$darkGrey;
+    color: v.$grey;
     grid-column-start: 2;
 }
 
