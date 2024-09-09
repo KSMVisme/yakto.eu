@@ -5,6 +5,10 @@ define "main" }}
     {{ if .Description}}
     <p>{{.Description}}</p>
     {{ end }} {{ if .Params.showMetadata | default true }}
+    <div>
+        {{if ((isset .Params "ytid")) | or (eq .Params.ytid "") }}
+        {{.Params.ytid}} {{else}} {{end}} {{ .Content }}
+    </div>
     <section class="postMetadata">
         <dl>
             {{ with .GetTerms "tags" }} {{ partial "taxonomy/tags.html" . }} {{

@@ -26,10 +26,12 @@ dl {
 }
 
 dt {
+    color: v.$darkGrey;
     grid-column-start: 1;
 }
 
 dd {
+    color: v.$darkGrey;
     grid-column-start: 2;
 }
 

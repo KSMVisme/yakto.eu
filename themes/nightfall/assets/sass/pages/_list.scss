@@ -1,4 +1,14 @@
+@use "../utils/variables" as v;
+
 .listHeader,
 .listContent {
     text-align: center;
+}
+.listPostMetadata {
+    font-family: v.$fontCode;
+    display: block;
+    background: v.$backgroundDark;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 20px;
 }

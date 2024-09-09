@@ -2,7 +2,7 @@
 
 .postDate {
     float: right;
-    color: v.$white;
+    color: v.$darkGrey;
 }
 
 .postTitle {
@@ -29,7 +29,25 @@
     margin-bottom: 20px;
     border-radius: 20px;
     margin: 20px;
-    backdrop-filter: blur(5px);
+}
+
+.postCoverImage {
+    background-position: center;
+    background-size: cover;
+    padding: 20px;
+    background-color: #282725;
+    margin: 5px;
+    margin-bottom: 25px;
+    border-radius: 15px;
+    margin-top: 25px;
+    height: 15vh;
+}
+
+.blankPost {
+    margin: 5px;
+    margin-bottom: 25px;
+    border-radius: 15px;
+    margin-top: 25px;
 }
 
 .postListLink:hover {
@@ -37,9 +55,9 @@
 }
 
 .postExcerpt {
-    text-align: initial;
+    text-align: left;
     text-decoration: none;
-    color: v.$white;
+    color: v.$darkGrey;
     padding-top: 20px;
 }
 
