@@ -34,9 +34,7 @@ define "main" }}
                                         background-image: url(https://img.youtube.com/vi/{{ .Params.ytid }}/0.jpg);
                                     "
                     ></div>
-                    {{ else }}
-                    <div class="blankPost"></div>
-                    {{ end }}
+                    {{ else }} {{ end }}
                     <section class="listPostMetadata">
                         <dl>
                             {{ with .GetTerms "tags" }} {{ partial
