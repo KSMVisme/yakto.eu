@@ -33,7 +33,7 @@
 
 .postCoverImage {
     transition: 1s;
-    opacity: 75%;
+    opacity: 65%;
     background-position: center;
     background-size: cover;
     padding: 20px;
@@ -43,11 +43,13 @@
     border-radius: 15px;
     margin-top: 25px;
     height: 15vh;
+    filter: sepia(25%);
 }
 
 .postCoverImage:hover {
     transition: 1s;
     opacity: 100%;
+    filter: sepia(0%);
 }
 
 .postListLink:hover {

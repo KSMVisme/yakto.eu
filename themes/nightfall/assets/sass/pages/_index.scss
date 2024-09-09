@@ -6,10 +6,34 @@
     justify-content: center;
     background: v.$black;
     border-radius: 25px;
+    animation: scalination 100ms;
 }
 
 .indexHeader {
     font-size: 2.5rem;
     font-weight: 100;
     margin-bottom: 20px;
+}
+
+@keyframes scalination {
+    10% {
+        scale: 1.4;
+        opacity: 20%;
+    }
+    25% {
+        scale: 1.3;
+        opacity: 35%;
+    }
+    50% {
+        scale: 1.2;
+        opacity: 50%;
+    }
+    75% {
+        scale: 1.1;
+        opacity: 75%;
+    }
+    100% {
+        scale: 1;
+        opacity: 100%;
+    }
 }

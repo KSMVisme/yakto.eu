@@ -8,6 +8,5 @@ tags:
   - "color-correction"
   - "color-grading"
 coverImage: "dVlS-75Lc0-HD.jpg"
+ytid: _dVlS-75Lc0
 ---
-
-{{<youtube _dVlS-75Lc0>}}

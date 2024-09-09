@@ -1,18 +1,17 @@
 ---
 title: "[ADVERT] Gentleman Coffe"
 date: "2023-08-28"
-categories: 
+categories:
   - "advertisement"
   - "selfmade"
-tags: 
+tags:
   - "camera"
   - "color-correction"
   - "color-grading"
   - "editing"
   - "sound-postproduction"
 coverImage: "w-1txN2sQLE-HD.jpg"
+ytid: w-1txN2sQLE
 ---
-
-https://youtu.be/w-1txN2sQLE
 
 Ad production: Szymon Kosmowski

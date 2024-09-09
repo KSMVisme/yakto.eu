@@ -1,26 +1,15 @@
 ---
 title: "[MUSIC] Kenny Kołach - Joe Pesci"
 date: "2019-09-16"
-categories: 
+categories:
   - "music"
-tags: 
+tags:
   - "music-mastering"
   - "music-mixing"
   - "vocal-recording"
 coverImage: "maxresdefault-4.jpg"
+ytid: Cw_kU0V7Mog
 ---
 
-<figure>
-
-https://www.youtube.com/watch?v=Cw\_kU0V7Mog&list=PLmAzSovV8k5oPRZz6hbHT9wPFnKmLsRvt&index=4
-
-<figcaption>
-
-Artist: Kenny Kołach  
+Artist: Kenny Kołach
 Mix/Master: Szymon Kosmowski
-
-</figcaption>
-
-
-
-</figure>

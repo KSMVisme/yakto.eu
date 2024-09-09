@@ -7,9 +7,8 @@ tags:
   - "music-mastering"
   - "music-mixing"
 coverImage: "maxresdefault-23.jpg"
+ytid: gG202ysZ3S0
 ---
-
-{{<youtube gG202ysZ3S0>}}
 
 - Artists: Szatan, Jimmydee
 - Mix/Master: Szymon Kosmowski

@@ -1,17 +1,16 @@
 ---
 title: "[VIDEOCLIP] Cheatz - Mrok"
 date: "2023-04-10"
-categories: 
+categories:
   - "selfmade"
   - "videoclip"
-tags: 
+tags:
   - "camera"
   - "color-correction"
   - "color-grading"
   - "editing"
 coverImage: "maxresdefault-28.jpg"
+ytid: C4jzNHexF5Q
 ---
-
-https://youtu.be/C4jzNHexF5Q
 
 Produkcja teledysku: Szymon Kosmowski

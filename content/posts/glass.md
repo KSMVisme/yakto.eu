@@ -1,14 +1,13 @@
 ---
 title: "[ETIUDE] gLASS"
 date: "2023-02-25"
-categories: 
+categories:
   - "film"
   - "school"
-tags: 
+tags:
   - "color-correction"
   - "color-grading"
   - "editing"
 coverImage: "Xi-7xHq18Zw-HD.jpg"
+ytid: Xi-7xHq18Zw
 ---
-
-https://youtu.be/Xi-7xHq18Zw

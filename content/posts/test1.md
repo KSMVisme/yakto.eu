@@ -9,10 +9,8 @@ tags:
   - "music-mixing"
   - "vocal-recording"
 coverImage: "https://img.youtube.com/vi/7Y5D69Uhvfs/maxresdefault.jpg"
+ytid: 7Y5D69Uhvfs
 ---
-
-
-{{<youtube 7Y5D69Uhvfs>}}
 
 
 - Mix/Master: Szymon Kosmowski

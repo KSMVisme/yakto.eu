@@ -7,9 +7,8 @@ tags:
   - "music-mastering"
   - "music-mixing"
 coverImage: "mqdefault-4.jpg"
+ytid: hEfoBCmvjDw
 ---
-
-{{<youtube hEfoBCmvjDw>}}
 
 - Artist: Szatan
 - Mix/Master: Szymon Kosmowski

@@ -1,15 +1,14 @@
 ---
 title: "[ETIUDE] Portier"
 date: "2022-05-23"
-categories: 
+categories:
   - "film"
   - "school"
   - "selfmade"
-tags: 
+tags:
   - "color-correction"
   - "editing"
   - "sound-postproduction"
 coverImage: "z7P43-DxXaU-HD.jpg"
+ytid: z7P43-DxXaU
 ---
-
-https://youtu.be/z7P43-DxXaU

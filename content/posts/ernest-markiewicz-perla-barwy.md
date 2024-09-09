@@ -13,20 +13,9 @@ tags:
   - "music-mixing"
   - "vocal-recording"
 coverImage: "maxresdefault-24.jpg"
+ytid: VNTuFYtDtE8
 ---
-
-<figure>
-
-https://www.youtube.com/watch?v=VNTuFYtDtE8&list=PLmAzSovV8k5oPRZz6hbHT9wPFnKmLsRvt&index=31
-
-<figcaption>
 
 Artist: Ernest Markiewicz
 Mix/Master: Szymon Kosmowski
 Video: Szymon Kosmowski
-
-</figcaption>
-
-
-
-</figure>

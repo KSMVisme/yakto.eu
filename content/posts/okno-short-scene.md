@@ -1,16 +1,15 @@
 ---
 title: "[ETIUDE] Okno"
 date: "2024-03-09"
-categories: 
+categories:
   - "film"
   - "school"
-tags: 
+tags:
   - "color-correction"
   - "color-grading"
   - "editing"
   - "sound-postproduction"
   - "sound-recording"
 coverImage: "wHK5yksAdx0-HD.jpg"
+ytid: wHK5yksAdx0
 ---
-
-https://youtu.be/wHK5yksAdx0

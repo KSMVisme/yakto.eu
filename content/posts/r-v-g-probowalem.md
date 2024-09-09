@@ -8,9 +8,8 @@ tags:
   - "music-mixing"
   - "vocal-recording"
 coverImage: "maxresdefault-17.jpg"
+ytid: WWzPQpTuwz0
 ---
-
-https://www.youtube.com/watch?v=WWzPQpTuwz0&list=PLmAzSovV8k5oPRZz6hbHT9wPFnKmLsRvt&index=21
 
 - Artist: R.V.G
 - Mix/Master: Szymon Kosmowski

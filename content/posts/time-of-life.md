@@ -12,5 +12,3 @@ tags:
   - "editing"
 ytid: "T3Y3k5nh_MM"
 ---
-
-{{<youtube "T3Y3k5nh_MM">}}

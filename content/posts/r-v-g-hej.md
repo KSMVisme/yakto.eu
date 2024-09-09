@@ -8,12 +8,8 @@ tags:
   - "music-mixing"
   - "vocal-recording"
 coverImage: "maxresdefault-18.jpg"
+ytid: yIrgR44_joU
 ---
-
-[](https://www.youtube.com/@rvgtomarka)
-
-
-https://www.youtube.com/watch?v=yIrgR44\_joU&list=PLmAzSovV8k5oPRZz6hbHT9wPFnKmLsRvt&index=23
 
 
 - Artist: R.V.G

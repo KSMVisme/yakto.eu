@@ -8,20 +8,9 @@ tags:
   - "music-mixing"
   - "vocal-recording"
 coverImage: "mqdefault-1.jpg"
+ytid: CHOdFFJdAvM
 ---
-
-<figure>
-
-https://www.youtube.com/watch?v=CHOdFFJdAvM&list=PLmAzSovV8k5oPRZz6hbHT9wPFnKmLsRvt&index=20
-
-<figcaption>
 
 - Artist: R.V.G
 - Mix/Master: Szymon Kosmowski
 - Visual: Szymon Kosmowski
-
-</figcaption>
-
-
-
-</figure>

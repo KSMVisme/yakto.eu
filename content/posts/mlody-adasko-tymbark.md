@@ -8,19 +8,8 @@ tags:
   - "music-mixing"
   - "vocal-recording"
 coverImage: "maxresdefault-7.jpg"
+ytid: AI2_elznQcQ
 ---
-
-<figure>
-
-https://www.youtube.com/watch?v=AI2\_elznQcQ&list=PLmAzSovV8k5oPRZz6hbHT9wPFnKmLsRvt&index=7
-
-<figcaption>
 
 - Artist: Mlody Adasko
 - Mix/Master: Szymon Kosmwoski
-
-</figcaption>
-
-
-
-</figure>

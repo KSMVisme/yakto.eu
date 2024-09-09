@@ -8,6 +8,5 @@ tags:
   - "sound-postproduction"
   - "sound-recording"
 coverImage: "boGMw2oxl5c-HD.jpg"
+ytid: SJ2oR9aantk
 ---
-
-{{< youtube SJ2oR9aantk >}}

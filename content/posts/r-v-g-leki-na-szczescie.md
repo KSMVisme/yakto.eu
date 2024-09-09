@@ -7,12 +7,8 @@ tags:
   - "music-mastering"
   - "music-mixing"
 coverImage: "maxresdefault-20.jpg"
+ytid: 6EfQh4On-24
 ---
-
-[](https://www.youtube.com/@rvgtomarka)
-
-
-https://www.youtube.com/watch?v=6EfQh4On-24&list=PLmAzSovV8k5oPRZz6hbHT9wPFnKmLsRvt&index=25
 
 - Artist: R.V.G
 - Mix/Master: Szymon Kosmowski

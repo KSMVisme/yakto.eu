@@ -8,12 +8,8 @@ tags:
   - "music-mixing"
   - "vocal-recording"
 coverImage: "maxresdefault-19.jpg"
+ytid: Site_eIUVvA
 ---
-
-[lik](https://www.youtube.com/@rvgtomarka)
-
-
-https://www.youtube.com/watch?v=Site\_eIUVvA&list=PLmAzSovV8k5oPRZz6hbHT9wPFnKmLsRvt&index=24
 
 - Artist: R.V.G
 - Mix/Master: Szymon Kosmowski

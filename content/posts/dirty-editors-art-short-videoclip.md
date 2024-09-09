@@ -1,14 +1,13 @@
 ---
 title: "[VIDEOCLIP] Dirty"
 date: "2023-05-06"
-categories: 
+categories:
   - "school"
   - "videoclip"
-tags: 
+tags:
   - "color-correction"
   - "color-grading"
   - "editing"
 coverImage: "eroSoCvYPFw-HD.jpg"
+ytid: eroSoCvYPFw
 ---
-
-https://youtu.be/eroSoCvYPFw

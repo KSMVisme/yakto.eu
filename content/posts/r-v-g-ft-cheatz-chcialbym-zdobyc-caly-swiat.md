@@ -8,20 +8,10 @@ tags:
   - "music-mixing"
   - "vocal-recording"
 coverImage: "mqdefault-2.jpg"
+ytid: Vl1UsFSjpeE
 ---
 
-<figure>
-
-https://www.youtube.com/watch?v=Vl1UsFSjpeE&list=PLmAzSovV8k5oPRZz6hbHT9wPFnKmLsRvt&index=22
-
-<figcaption>
 
 - Artists: R.V.G, Cheatz
 - Mix/Master: Szymon Kosmowski
 - Visual: Szymon Kosmowski
-
-</figcaption>
-
-
-
-</figure>

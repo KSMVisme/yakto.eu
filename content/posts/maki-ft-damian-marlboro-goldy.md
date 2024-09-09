@@ -7,19 +7,8 @@ tags:
   - "music-mastering"
   - "music-mixing"
 coverImage: "maxresdefault-11.jpg"
+ytid: JPKCwwu85jc
 ---
-
-<figure>
-
-https://www.youtube.com/watch?v=JPKCwwu85jc&list=PLmAzSovV8k5oPRZz6hbHT9wPFnKmLsRvt&index=12
-
-<figcaption>
 
 - Artist: Maki, Damian
 - Mix/Master: Szymon Kosmowski
-
-</figcaption>
-
-
-
-</figure>
