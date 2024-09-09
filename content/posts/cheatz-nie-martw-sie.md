@@ -1,0 +1,17 @@
+---
+title: "[VIDEOCLIP] Cheatz - Nie martw się"
+date: "2023-04-11"
+categories: 
+  - "selfmade"
+  - "videoclip"
+tags: 
+  - "camera"
+  - "color-correction"
+  - "color-grading"
+  - "editing"
+coverImage: "maxresdefault-27.jpg"
+---
+
+https://youtu.be/ffRerGPh6Ew
+
+Produkcja teledysku: Szymon Kosmowski

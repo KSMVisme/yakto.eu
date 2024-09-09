@@ -8,6 +8,8 @@ hostname = "yakto.eu"
 footerHtml = 'Instagram - FilmPolski - FaceBook'
 readingTime = false
 color = "orange"
+ico = "/assets/ico/Yakto_icon_universal.png"
+bckg = "/assets/vid/bckg.mp4"
 
 [params.author]
 name = "Szymon Kosmowski"

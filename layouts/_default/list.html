@@ -1,8 +1,5 @@
-{{ define "title"}}
-{{ .Title }} | {{ .Site.Params.author.name }}
-{{ end }}
-
-{{ define "main" }}
+{{ define "title"}} {{ .Title }} | {{ .Site.Params.author.name }} {{ end }} {{
+define "main" }}
 
 <div>
     <div class="listHeader">
@@ -10,9 +7,7 @@
     </div>
 
     {{ with .Content }}
-    <div class="listContent">
-        {{- . -}}
-    </div>
+    <div class="listContent">{{- . -}}</div>
     {{ end }}
 
     <div>
@@ -24,14 +19,15 @@
                 <div class="postHeader">
                     <span class="postTitle">{{ .Title }}</span>
                     {{ $formattedDate := .Date.Format "2006-01-02" }}
-                    <time class="postDate" datetime="{{ $formattedDate }}">{{ .Date | time.Format ":date_long" }}</time>
+                    <time class="postDate" datetime="{{ $formattedDate }}"
+                        >{{ .Date | time.Format ":date_long" }}</time
+                    >
                 </div>
                 <div class="postExcerpt">
                     <p>{{ .Summary }}</p>
                 </div>
             </div>
         </a>
-
 
         {{end}}
     </div>

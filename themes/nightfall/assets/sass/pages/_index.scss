@@ -1,7 +1,11 @@
+@use "../utils/variables" as v;
+
 .indexWrapper {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    background: v.$black;
+    border-radius: 25px;
 }
 
 .indexHeader {

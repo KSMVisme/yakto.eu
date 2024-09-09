@@ -1,0 +1,56 @@
+{{ define "title"}} {{ .Title }} | {{ .Site.Params.author.name }} {{ end }} {{
+define "main" }}
+
+<div>
+    <div class="listHeader">
+        <h1>{{ .Title }}</h1>
+    </div>
+
+    {{ with .Content }}
+    <div class="listContent">{{- . -}}</div>
+    {{ end }}
+
+    <div>
+        {{ range .Pages }}
+
+        <a class="postListLink" href="{{ .Permalink }}">
+            <!-- [html-validate-disable-next prefer-native-element] -->
+            {{if ((isset .Params "ytid")) | or (eq .Params.ytid "") }}
+            <div
+                class="postListItem"
+                role="listitem"
+                style="
+                    background-image: url(https://img.youtube.com/vi/{{ .Params.ytid }}/0.jpg);
+                    background-position: center;
+                    background-size: cover;
+                "
+            >
+                {{ else }}
+                <div
+                    class="postListItem"
+                    role="listitem"
+                >
+                    {{end}}
+                    <div class="postHeader">
+                        {{$split := index (split .Title " ") 0}}
+                        <span class="postTitle"
+                            >{{ index (split .Title "]") 1}}</span
+                        >
+                        {{ $formattedDate := .Date.Format "2006-01-02" }}
+                        <time class="postDate" datetime="{{ $formattedDate }}"
+                            >{{ replace $split "_" " " }}</time
+                        >
+                    </div>
+                <div class="postExcerpt">
+                    <p>
+                        {{ $tags := .Params.tags }} #{{delimit $tags " #"}}<!---{{ .Summary }}--->
+                    </p>
+                </div>
+            </div>
+        </a>
+
+        {{end}}
+    </div>
+</div>
+
+{{ end }}

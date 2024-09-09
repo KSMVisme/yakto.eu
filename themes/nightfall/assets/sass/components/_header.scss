@@ -9,7 +9,11 @@
     align-items: center;
     width: v.$width;
 }
-
+.headAllign {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 .headerWrapper {
     overflow: auto;
     box-sizing: border-box;

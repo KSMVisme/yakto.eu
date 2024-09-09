@@ -1,0 +1,20 @@
+---
+title: "[MUSIC] R.V.G - Zabij Dla Mnie"
+date: "2021-08-27"
+categories:
+  - "music"
+tags:
+  - "music-mastering"
+  - "music-mixing"
+  - "vocal-recording"
+coverImage: "maxresdefault-19.jpg"
+---
+
+[lik](https://www.youtube.com/@rvgtomarka)
+
+
+https://www.youtube.com/watch?v=Site\_eIUVvA&list=PLmAzSovV8k5oPRZz6hbHT9wPFnKmLsRvt&index=24
+
+- Artist: R.V.G
+- Mix/Master: Szymon Kosmowski
+- Photo: Gentleman Film Studio
