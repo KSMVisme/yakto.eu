@@ -32,6 +32,8 @@
 }
 
 .postCoverImage {
+    transition: 1s;
+    opacity: 75%;
     background-position: center;
     background-size: cover;
     padding: 20px;
@@ -41,6 +43,11 @@
     border-radius: 15px;
     margin-top: 25px;
     height: 15vh;
+}
+
+.postCoverImage:hover {
+    transition: 1s;
+    opacity: 100%;
 }
 
 .blankPost {

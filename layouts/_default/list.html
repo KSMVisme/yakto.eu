@@ -17,14 +17,36 @@ define "main" }}
             <!-- [html-validate-disable-next prefer-native-element] -->
             <div class="postListItem" role="listitem">
                 <div class="postHeader">
-                    <span class="postTitle">{{ .Title }}</span>
+                    {{$split := index (split .Title " ") 0}}
+                    <span class="postTitle"
+                        >{{ index (split .Title "]") 1}}</span
+                    >
                     {{ $formattedDate := .Date.Format "2006-01-02" }}
                     <time class="postDate" datetime="{{ $formattedDate }}"
-                        >{{ .Date | time.Format ":date_long" }}</time
+                        >{{ replace $split "_" " " }}</time
                     >
                 </div>
                 <div class="postExcerpt">
-                    <p>{{ .Summary }}</p>
+                    {{if ((isset .Params "ytid")) | or (eq .Params.ytid "") }}
+                    <div
+                        class="postCoverImage"
+                        style="
+                                        background-image: url(https://img.youtube.com/vi/{{ .Params.ytid }}/0.jpg);
+                                    "
+                    ></div>
+                    {{ else }}
+                    <div class="blankPost"></div>
+                    {{ end }}
+                    <section class="listPostMetadata">
+                        <dl>
+                            {{ with .GetTerms "tags" }} {{ partial
+                            "taxonomy/tags.html" . }} {{ end }} {{ with
+                            .GetTerms "authors" }} {{ partial
+                            "taxonomy/authors.html" . }} {{ end }} {{ with
+                            .GetTerms "categories" }} {{ partial
+                            "taxonomy/categories.html" . }} {{ end }}
+                        </dl>
+                    </section>
                 </div>
             </div>
         </a>
