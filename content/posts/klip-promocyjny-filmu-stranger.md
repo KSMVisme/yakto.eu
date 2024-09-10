@@ -11,9 +11,7 @@ tags:
   - "sound-recording"
 ytid: "NijsWKZt_84"
 ---
-
-
-##Credits:
+## Credits:
 
 - Reżyseria i Scenariusz: Maciej Habik
 - Operator Kamery: Tytus Diakun

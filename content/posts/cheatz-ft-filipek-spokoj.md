@@ -10,7 +10,8 @@ tags:
 coverImage: "maxresdefault-15.jpg"
 ytid: auWBrGZor98
 ---
+## Credits:
 
-Artists: Cheatz, Filipek
-Mix/Master: Szymon Kosmowski
-Video: Gentleman Film Studio, Szymon Kosmowski
+- Artists: Cheatz, Filipek
+- Mix/Master: Szymon Kosmowski
+- Video: Gentleman Film Studio, Szymon Kosmowski

@@ -15,7 +15,8 @@ tags:
 coverImage: "maxresdefault-24.jpg"
 ytid: VNTuFYtDtE8
 ---
+## Credits:
 
-Artist: Ernest Markiewicz
-Mix/Master: Szymon Kosmowski
-Video: Szymon Kosmowski
+- Artist: Ernest Markiewicz
+- Mix/Master: Szymon Kosmowski
+- Video: Szymon Kosmowski

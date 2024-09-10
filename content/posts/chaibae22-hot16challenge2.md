@@ -12,7 +12,8 @@ tags:
 coverImage: "maxresdefault-6.jpg"
 ytid: GjMH9Mq-11s
 ---
+## Credits:
 
-Artist: Chaibae22
-Mix/Master: Szymon Kosmowski
-Video: Szymon Kosmowski
+- Artist: Chaibae22
+- Mix/Master: Szymon Kosmowski
+- Video: Szymon Kosmowski

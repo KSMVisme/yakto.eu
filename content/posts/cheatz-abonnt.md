@@ -12,4 +12,6 @@ coverImage: "Tub8nBfo6rY-HD.jpg"
 ytid: Tub8nBfo6rY
 ---
 
-Videoclip production: Szymon Kosmowksi
+## Credits:
+
+- Videoclip production: Szymon Kosmowksi

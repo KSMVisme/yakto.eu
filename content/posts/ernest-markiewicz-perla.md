@@ -10,8 +10,8 @@ tags:
 coverImage: "maxresdefault-25.jpg"
 ytid: Jw3xIwr7Y0w
 ---
+## Credits:
 
-
-Artist: Ernest Markiewicz
-Mix/Master: Szymon Kosmowski
-Graphics: Gentleman Film Studio
+- Artist: Ernest Markiewicz
+- Mix/Master: Szymon Kosmowski
+- Graphics: Gentleman Film Studio

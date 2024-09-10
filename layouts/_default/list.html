@@ -27,11 +27,12 @@ define "main" }}
                     >
                 </div>
                 <div class="postExcerpt">
-                    {{if ((isset .Params "ytid")) | or (eq .Params.ytid "") }}
+                    {{if ((isset .Params "ytid")) | or (eq .Params.ytid "") }}{{
+                    $id := replace .Params.ytid "https://youtu.be/" ""}}
                     <div
                         class="postCoverImage"
                         style="
-                                        background-image: url(https://img.youtube.com/vi/{{ .Params.ytid }}/0.jpg);
+                                        background-image: url(https://img.youtube.com/vi/{{ $id }}/0.jpg);
                                     "
                     ></div>
                     {{ else }} failed to load content! {{ end }}

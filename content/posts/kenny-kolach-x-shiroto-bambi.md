@@ -10,6 +10,7 @@ tags:
 coverImage: "maxresdefault-9.jpg"
 ytid: UvZ9LBWTyO0
 ---
+## Credits:
 
-Artists: Kanny Kołach, Shiroto
-Mix/Mastering: Szymon Kosmowski
+- Artists: Kanny Kołach, Shiroto
+- Mix/Mastering: Szymon Kosmowski

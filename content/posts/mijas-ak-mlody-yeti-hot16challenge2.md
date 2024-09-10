@@ -9,6 +9,7 @@ tags:
 coverImage: "maxresdefault-12.jpg"
 ytid: 8nXaMqHCULA
 ---
+## Credits:
 
 - Artist: Mijas Ak. Młody Yeti
 - Mix/Master: Szymon Kosmowski

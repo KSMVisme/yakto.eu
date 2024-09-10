@@ -13,5 +13,6 @@ tags:
 coverImage: "w-1txN2sQLE-HD.jpg"
 ytid: w-1txN2sQLE
 ---
+## Credits:
 
-Ad production: Szymon Kosmowski
+- Production: Szymon Kosmowski

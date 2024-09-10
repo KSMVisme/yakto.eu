@@ -11,6 +11,7 @@ tags:
 coverImage: "438087730_851916040314146_6065534840398517162_n-01.jpg"
 ytid: "fcURaHawbGU"
 ---
+## Credits:
 
 - Dźwięk i Postprodukcja dźwięku: Szymon Kosmowski
 - Reżyseria: Kajetan Balcerek

@@ -16,11 +16,11 @@ name = "Szymon Kosmowski"
 url = "/about"
 
 [[params.social]]
-name = "Advertisment"
+name = "Advertisments"
 url = "/categories/advertisement"
 
 [[params.social]]
-name = "Film"
+name = "Films"
 url = "/categories/film"
 
 [[params.social]]
@@ -32,11 +32,11 @@ name = "Selfmade"
 url = "/categories/selfmade"
 
 [[params.social]]
-name = "Short"
-url = "/categories/short/"
+name = "Reels"
+url = "/categories/reel/"
 
 [[params.social]]
-name = "Videoclip"
+name = "Videoclips"
 url = "/categories/videoclip"
 
 

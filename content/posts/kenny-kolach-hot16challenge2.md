@@ -11,6 +11,7 @@ tags:
 coverImage: "maxresdefault-8.jpg"
 ytid: X_8eAK9KHBE
 ---
+## Credits:
 
-Artist: Kenny Kołach
-Mix/Mastering: Szymon Kosmowski
+- Artist: Kenny Kołach
+- Mix/Mastering: Szymon Kosmowski

@@ -9,7 +9,8 @@ tags:
 coverImage: "maxresdefault-22.jpg"
 ytid: LDm1YA9z_9w
 ---
+## Credits:
 
-Artists: Jimmydee, Szatan
-Mix/Master: Szymon Kosmowski
-Video: Road2Hell
+- Artists: Jimmydee, Szatan
+- Mix/Master: Szymon Kosmowski
+- Video: Road2Hell

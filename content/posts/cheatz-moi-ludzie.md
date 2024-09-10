@@ -9,7 +9,8 @@ tags:
 coverImage: "mqdefault-3.jpg"
 ytid: vvz96q5gTUc
 ---
+## Credits:
 
-Artist: Cheatz
-Mix/Master: Szymon Kosmowski
-Video: Cheatz, Robuss
+- Artist: Cheatz
+- Mix/Master: Szymon Kosmowski
+- Video: Cheatz, Robuss

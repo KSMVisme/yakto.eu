@@ -14,7 +14,8 @@ tags:
 coverImage: "mqdefault.jpg"
 ytid: yci55Jmq4HU
 ---
+## Credits:
 
-Artist: Kenny Kołach
-Mix/Master: Szymon Kosmowski
-Video: Szymon Kosmowski
+- Artist: Kenny Kołach
+- Mix/Master: Szymon Kosmowski
+- Video: Szymon Kosmowski

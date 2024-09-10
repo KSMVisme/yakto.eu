@@ -12,7 +12,8 @@ tags:
 coverImage: "maxresdefault-3.jpg"
 ytid: vIk9r29Rr6c
 ---
+## Credits:
 
-Artist: Kenny Kołach
-Video mashup: Szymon Kosmowski
-Mix/Master: Szymon Kosmowski
+- Artist: Kenny Kołach
+- Video mashup: Szymon Kosmowski
+- Mix/Master: Szymon Kosmowski

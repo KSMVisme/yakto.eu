@@ -14,7 +14,8 @@ tags:
 coverImage: "maxresdefault-2.jpg"
 ytid: f2I1eQg7uN0
 ---
+## Credits:
 
-Artist: InFact
-Mix/Master: Szymon Kosmowski
-Video: Szymon Kosmowski
+- Artist: InFact
+- Mix/Master: Szymon Kosmowski
+- Video: Szymon Kosmowski

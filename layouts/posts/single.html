@@ -1,18 +1,43 @@
 {{ define "title"}} {{ .Title }} | {{ .Site.Params.author.name }} {{ end }} {{
 define "main" }}
 <div class="postWrapper">
-    <h1>{{ .Title }}</h1>
+    <h1 class="singlePostTitle">{{ .Title }}</h1>
     {{ if .Description}}
     <p>{{.Description}}</p>
-    {{ end }} {{ if .Params.showMetadata | default true }}
-    <div>
-        {{if ((isset .Params "ytid")) | or (eq .Params.ytid "") }}
-        <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;" class="youtubePlayer" bis_skin_checked="1">
-              <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/{{.Params.ytid}}?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
-            </div></div>
-
-        {{else}} failed loading content! {{end}} {{ .Content }}
+    {{ end }} {{ if .Params.showMetadata | default true }} {{if ((isset .Params
+    "ytid")) | or (eq .Params.ytid "") }}{{ $id := replace .Params.ytid
+    "https://youtu.be/" ""}}
+    <div
+        style="
+            position: relative;
+            padding-bottom: 56.25%;
+            height: 0;
+            overflow: hidden;
+        "
+        class="youtubePlayer"
+        bis_skin_checked="1"
+    >
+        <iframe
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen="allowfullscreen"
+            loading="eager"
+            referrerpolicy="strict-origin-when-cross-origin"
+            src="https://www.youtube.com/embed/{{ $id }}?autoplay=0&controls=1&showinfo=0&start=0"
+            style="
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                border: 0;
+            "
+            title="video"
+        ></iframe>
     </div>
+
+    {{else}} failed loading content! {{end}}
+    <div class="postContent">{{ .Content }}</div>
+
     <section class="postMetadata">
         <dl>
             {{ with .GetTerms "tags" }} {{ partial "taxonomy/tags.html" . }} {{

@@ -12,7 +12,8 @@ tags:
 coverImage: "maxresdefault-21.jpg"
 ytid: EZYlWArr1WE
 ---
+## Credits:
 
-Artist: Cheatz
-Mix/Master: Szymon Kosmowski, Cheatz
-Video: Gentleman Film Studio, Szymon Kosmowski
+- Artist: Cheatz
+- Mix/Master: Szymon Kosmowski, Cheatz
+- Video: Gentleman Film Studio, Szymon Kosmowski

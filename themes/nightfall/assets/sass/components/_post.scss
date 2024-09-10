@@ -33,6 +33,20 @@
     margin: 20px;
 }
 
+.singlePostTitle {
+    margin-left: 15px;
+    margin-right: 15px;
+    @include v.primary-color;
+    font-size: x-large;
+}
+
+.postContent {
+    margin-left: 15px;
+    margin-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
 .postCoverImage {
     transition: 1s;
     opacity: 65%;

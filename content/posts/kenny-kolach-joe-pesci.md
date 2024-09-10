@@ -10,6 +10,7 @@ tags:
 coverImage: "maxresdefault-4.jpg"
 ytid: Cw_kU0V7Mog
 ---
+## Credits:
 
-Artist: Kenny Kołach
-Mix/Master: Szymon Kosmowski
+- Artist: Kenny Kołach
+- Mix/Master: Szymon Kosmowski

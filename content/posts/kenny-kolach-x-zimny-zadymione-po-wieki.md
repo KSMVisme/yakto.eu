@@ -10,7 +10,8 @@ tags:
 coverImage: "maxresdefault-14.jpg"
 ytid: yuZY_CjQLWA
 ---
+## Credits:
 
-Artists: Kenny Kołach, Zimny
-Mix/Mstering: Szymon Kosmowski
-Video: Jakub Mich
+- Artists: Kenny Kołach, Zimny
+- Mix/Mstering: Szymon Kosmowski
+- Video: Jakub Mich

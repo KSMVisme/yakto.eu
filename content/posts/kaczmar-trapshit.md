@@ -9,6 +9,7 @@ tags:
 coverImage: "maxresdefault-13.jpg"
 ytid: e4SiRGTkkBY
 ---
+## Credits:
 
-Artists: Kaczmar, Saddyzay
-Mix/Master: Szymon Kosmowski
+- Artists: Kaczmar, Saddyzay
+- Mix/Master: Szymon Kosmowski

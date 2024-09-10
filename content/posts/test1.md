@@ -11,7 +11,7 @@ tags:
 coverImage: "https://img.youtube.com/vi/7Y5D69Uhvfs/maxresdefault.jpg"
 ytid: 7Y5D69Uhvfs
 ---
-
+## Credits:
 
 - Mix/Master: Szymon Kosmowski
 - Vocal: Kenny Kołach, PiterO

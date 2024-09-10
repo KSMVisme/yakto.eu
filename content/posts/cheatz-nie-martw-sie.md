@@ -12,5 +12,6 @@ tags:
 coverImage: "maxresdefault-27.jpg"
 ytid: ffRerGPh6Ew
 ---
+## Credits:
 
-Produkcja teledysku: Szymon Kosmowski
+- Produkcja teledysku: Szymon Kosmowski
