@@ -1,9 +1,7 @@
 ---
-
+title: 'AboutME!'
 ---
-
-
-![](/assets/images/IMG_4737-01-edited.jpg)
+![](/images/IMG_4737-01-edited.jpg)
 
 Cześć! Jestem Szymon Kosmowski, młody twórca audiowizualny z Łodzi. Moja pasja do filmu i sztuki zaprowadziła mnie na studia w Wyższej Szkole Sztuki i Projektowania, gdzie zgłębiam tajniki produkcji filmowej. Obecnie jestem na piątym roku kierunku Realizacja Obrazu Telewizyjnego, Filmowego i Fotografii. Moją specjalizacją jest montaż filmowy, co pozwala mi łączyć techniczne umiejętności z artystyczną wizją. Poza studiami, realizuję się jako kreatywny twórca różnorodnych form audiowizualnych. Uwielbiam eksperymentować z obrazem i dźwiękiem, tworząc unikalne projekty artystyczne. Film to moja największa pasja, ale interesuję się także innymi dziedzinami sztuki. Ciągle szukam nowych sposobów wyrazu i inspiracji do tworzenia ciekawych, oryginalnych treści.
 
@@ -13,7 +11,7 @@ Dźwięk. Kamera. Montaż. Kolor. Akcja!
 
 Od małego fascynowały mnie technologia, elektronika i sztuka we wszelkich formach. Moja przygoda zaczęła się od montowania filmików na szkolne przedstawienia i obsługi sprzętu nagłośnieniowego podczas koncertów. Z każdym rokiem moja pasja rosła wraz ze mną, a ja chłonąłem wiedzę jak gąbka. Dzięki wsparciu przyjaciół, szybko wkroczyłem w świat produkcji studyjnych, teledysków, krótkich filmów i relacji z wydarzeń. To, co napędza mnie do ciągłego rozwoju, to radość z pokonywania kolejnych wyzwań i przekraczania własnych granic. Wierzę, że najlepsze efekty osiąga się, łącząc siły z innymi pasjonatami. Dlatego zawsze jestem otwarty na nowe projekty i współpracę. Może właśnie Ty masz pomysł, który moglibyśmy wspólnie zrealizować? Nieustannie poszerzam swoje horyzonty, nawiązuję nowe kontakty i dążę do perfekcji w tym, co robię. Jeśli szukasz kogoś z pasją, doświadczeniem i otwartym umysłem do swojego projektu, chętnie połączę z Tobą siły. Razem możemy stworzyć coś naprawdę wyjątkowego! Co powiesz na wspólną realizację naszych kreatywnych wizji? ;)
 
-[![](images/ZGIERZ-18-1024x683.jpg "ZGIERZ-18")](http://shvrp.eu/wp-content/uploads/2024/07/ZGIERZ-18-scaled.jpg)
+![](images/ZGIERZ-18-1024x683.jpg "ZGIERZ-18")
 
 [![](images/ZGIERZ-14-1024x683.jpg "ZGIERZ-14")](http://shvrp.eu/wp-content/uploads/2024/07/ZGIERZ-14-scaled.jpg)
 
