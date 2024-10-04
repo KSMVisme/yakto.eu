@@ -3,6 +3,7 @@ title: "[VIDEOCLIP] Cheatz - Abonent"
 date: "2023-07-23"
 categories:
   - "videoclip"
+  - "selfmade"
 tags:
   - "camera"
   - "color-correction"

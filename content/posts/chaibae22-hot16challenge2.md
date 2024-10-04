@@ -4,6 +4,7 @@ date: "2020-05-12"
 categories:
   - "music"
   - "videoclip"
+  - "selfmade"
 tags:
   - "camera"
   - "music-mastering"

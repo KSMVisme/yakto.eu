@@ -4,6 +4,7 @@ date: "2024-01-25"
 categories:
   - "music"
   - "videoclip"
+  - "selfmade"
 tags:
   - "camera"
   - "color-correction"
