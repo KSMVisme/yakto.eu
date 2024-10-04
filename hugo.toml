@@ -4,7 +4,7 @@ theme = "nightfall"
 
 [params]
 user = 'ksmvsky'
-hostname = "ksmvisme.github.io/yakto.eu/"
+hostname = "yakto.eu"
 footerHtml = 'Instagram - FilmPolski - FaceBook'
 readingTime = false
 color = "orange"
