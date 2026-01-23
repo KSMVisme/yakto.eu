@@ -1,4 +1,4 @@
 ---
-title: 'Transformacja Cyfrowa: Odkryj Pełny Potencjał Twojego Projektu'
+title: 'Napisz do mnie!'
 ---
 ##Hire me
