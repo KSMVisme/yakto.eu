@@ -1,5 +1,5 @@
 ---
-title: 'AboutME!'
+title: 'O mnie!'
 ---
 ![](/images/IMG_4737-01-edited.jpg)
 
